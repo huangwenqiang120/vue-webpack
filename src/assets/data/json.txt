@@ -1,0 +1,42 @@
+[
+    {
+        id: "1",
+        url: "background-image:url(./src/assets/images/result/result1.jpg)",
+        title: "清新北欧设计"
+    },
+    {
+        id: "2",
+        url: "background-image:url(./src/assets/images/result/result3.jpg)",
+        title: "清新美式书房"
+    },
+    {
+        id: "3",
+        url: "background-image:url(./src/assets/images/result/result4.jpg)",
+        title: "混搭风原木书架设计"
+    },
+    {
+        id: "4",
+        url: "background-image:url(./src/assets/images/result/result5.jpg)",
+        title: "清晰北欧书房"
+    },
+    {
+        id: "5",
+        url: "background-image:url(./src/assets/images/result/result2.jpg)",
+        title: "现在客厅设计"
+    },
+    {
+        id: "5",
+        url: "background-image:url(./src/assets/images/result/result.jpg)",
+        title: "现在客厅设计"
+    },
+    {
+        id: "5",
+        url: "background-image:url(./src/assets/images/result/result6.jpg)",
+        title: "现在客厅设计"
+    },
+    {
+        id: "5",
+        url: "background-image:url(./src/assets/images/result/result7.jpg)",
+        title: "现在客厅设计"
+    }
+]

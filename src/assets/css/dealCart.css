@@ -1,0 +1,91 @@
+i{
+	font-style: normal;
+}
+b{
+	font-weight: normal;
+}
+.dealCart_top{
+	margin-top: 4rem;
+}
+.dealCart_img{
+	font-size: 7rem;
+	color: #09BB07;
+}
+.commodity{
+	width: 100%;
+}
+
+/*商品图大小*/
+.commodity_img{
+	width: 3.75rem !important;
+	height: 3.75rem !important;
+}
+.commodity_bg{
+	background: #FAFAFA;
+}
+/*商品内容块高度  和商品图高度一致*/
+.commodity_showHei{
+	height: 4.5rem !important;
+}
+.commodity_num{
+	margin-top: -1rem;
+}
+.commodity_del{
+	vertical-align: middle;
+	background: red;
+	color: white;
+	font-size: .9rem;
+}
+.settlement{
+	position: fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	width: 100%;
+}
+.settlement-btn{
+	border:0 !important;
+	color: #FFFFFF;
+	font-size: .8rem;
+	height: 2.6rem;
+	line-height: 2.6rem;
+}
+/*添加减少*/
+.gw_num {
+	width: 100%;
+	height: 1.7rem;
+	border: .05rem solid #dbdbdb;
+	line-height: 1.7rem;
+	overflow: hidden;
+	
+}
+
+.gw_num span {
+	display: block;
+	width: 28%;
+	height: 100%;
+	float: left;
+	color: #7A7979;
+	border-right:  .05rem solid #dbdbdb;
+	text-align: center;
+	cursor: pointer;
+}
+
+.gw_num .num {
+	display: block;
+	float: left;
+	text-align: center;
+	width: 42%;
+	height: 100%;
+	font-style: normal;
+	font-size: 0.8em;
+	border: 0;
+}
+.gw_num span.add {
+	float: right;
+	border-right: 0;
+	width: 28%;
+	height: 100%;
+	line-height: 1.8rem;
+	border-left: .05rem solid #dbdbdb;
+}
